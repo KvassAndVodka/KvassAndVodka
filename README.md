@@ -1,5 +1,10 @@
 ### WHAT THE HEEEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLLLLLLL
 
+Hello! I am Javier M. Raut, also known as Kvass for KvassAndVodka.
+
+- Department of Computer Science USTP-CDO Undergraduate
+- Impostor sa CS Core Team (di kabalo)
+- Massive L and skill issue.
 <!--
 **KvassAndVodka/KvassAndVodka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
