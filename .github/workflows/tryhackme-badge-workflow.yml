@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write # Allows GitHub Actions to write to the repository
+
 jobs:
   update-badge:
     runs-on: ubuntu-latest
@@ -18,10 +21,19 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
 
+      - name: Create assets directory if missing
+        run: mkdir -p assets
+
       - name: Fetch TryHackMe Badge
         uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
         with:
-          image_path: "./assets/tryhackme-badge.png"
+          image_path: "${{ github.workspace }}/assets/tryhackme-badge.png"
           username: "KvassAndVodka"
           user_id: "2098491"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Badge Update
+        run: |
+          git add assets/tryhackme-badge.png
+          git commit -m "Update TryHackMe badge"
+          git push
