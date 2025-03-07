@@ -61,7 +61,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/kvassandvodka/kvassandvodka/output/snake.svg" alt="Snake animation" />
-<img src="https://github.com/KvassAndVodka/KvassAndVodka/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge">
+<img src="https://github.com/KvassAndVodka/KvassAndVodka/blob/main/assets/tryhackme-badge.png" alt="TryHackMe Badge">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kvassandvodka.kvassandvodka&left_color=navy&right_color=violet&left_text=nasalaag%20counter"  />
