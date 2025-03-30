@@ -1,4 +1,4 @@
-<h1 align="left">sudo nano /KvassAndVodka/README.md</h1>
+<h1 align="left">cat /KvassAndVodka/README.md</h1>
 
 ###
 
