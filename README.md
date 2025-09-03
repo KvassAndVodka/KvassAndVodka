@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">📓 Junior | Computer Science (USTP-CDO)<br>⚛ Member | CS3 Core Team (2024-2025)<br>🤓 Learning whatever tf I want</p>
+<p align="center">📓 Senior | Computer Science (USTP-CDO)<br>⚛ Member | CS3 Core Team (2024-2025)<br>🤓 Learning whatever tf I want</p>
 
 ###
 
