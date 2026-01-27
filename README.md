@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">📓 4th Year Computer Science (USTP-CDO) | Class of 2026<br>🛠 Specializing in **Backend Systems & Infrastructure**<br>⚛ Member | CS3 Core Team (2024-2025)<br>🐧 Arch Linux Rice enjoyer | Hyprland & Wayland</p>
+<p align="center">4th Year Computer Science (USTP-CDO) | Class of 2026<br>Specializing in __Backend Systems & Infrastructure<br> Member | CS3 Core Team (2024-2025)<br></p>
 
 ###
 
@@ -25,14 +25,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind" height="40" alt="web" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker,proxmox,arch,git,cloudflare,tailscale" height="40" alt="infra" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,nodejs" height="40" alt="infra" />
 </div>
 
 ###
 
 <p align="center">
   <b>Current Focus:</b> Building a motion-based anomaly detection module (DyMoN) 
-  <br> <b>Home Lab:</b> Self-hosting services on Proxmox & managing MLOps pipelines with OpenVINO.
+  <br> <b>Home Lab:</b> Self-hosting adGuard Home and My Portfolio on Proxmox.
 </p>
 
 ###
