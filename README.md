@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">4th Year Computer Science (USTP-CDO) | Class of 2026<br>Specializing in __Backend Systems & Infrastructure<br> Member | CS3 Core Team (2024-2025)<br></p>
+<p align="center">4th Year Computer Science (USTP-CDO) | Class of 2026<br>Specializing in Backend Systems & Infrastructure<br> Member | CS3 Core Team (2024-2025)<br></p>
 
 ###
 
