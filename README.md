@@ -53,8 +53,8 @@ I design and build reliable, secure software systems.
 ## Engineering Activity & Signal
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=KvassAndVodka&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=KvassAndVodka&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KvassAndVodka&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=KvassAndVodka&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <br />
@@ -62,6 +62,8 @@ I design and build reliable, secure software systems.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KvassAndVodka&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
 </div>
+
+<br />
 
 ---
 
