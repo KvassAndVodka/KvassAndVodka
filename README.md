@@ -19,7 +19,7 @@
 I design and build reliable, secure software systems.
 
 - **Software Developer** at the **House of Representatives of the Philippines**. Builds and maintains internal web platforms.
-- **Part-Time Instructor** at the **USTP Department of Computer Science**. Teaches Fundamentals of Database Systems.
+- **Part-Time Faculty** at the **USTP Department of Computer Science**. Teaches Fundamentals of Database Systems.
 - **BS Computer Science (Magna Cum Laude)**, Pioneer batch of USTP-CDO's Department of Computer Science. Recipient of the Alan Turing Award and a DOST-SEI JLSS Merit Scholar.
 - **Former ML/AI Intern** at **meldCX**. Developed license plate recognition systems with YOLO, PaddleOCR, and OpenVINO.
 - **Portfolio & Blog**: [portfolio.jmraut.dev](https://portfolio.jmraut.dev)
@@ -43,7 +43,7 @@ I design and build reliable, secure software systems.
 | Project | Description | Primary Technologies |
 | :--- | :--- | :--- |
 | **[Portfolio & Blog](https://portfolio.jmraut.dev)** | Self-hosted personal portfolio and technical blog platform. | Next.js, PostgreSQL, Prisma, Docker, Cloudflare |
-| **Infrastructure Tracking Platform** | Internal project-tracking platform for a government office (private). | PostgreSQL, Node.js, Linux, Docker |
+| **Infrastructure Tracking Platform** | Internal project-tracking platform for a government office (private). | Firebase, Node.js, Linux, Docker |
 | **[RT-Transcript](https://github.com/KvassAndVodka/RT-Transcript)** | Real-time speech transcription system. | Python, FastAPI, WebSockets, Audio Processing |
 | **DyMoN** | Motion-based anomaly detection module for computer vision systems. | Python, OpenCV, Machine Learning |
 | **Home Lab** | Self-hosted infrastructure for network services and portfolio hosting. | Proxmox VE, AdGuard Home, Docker, Linux |
