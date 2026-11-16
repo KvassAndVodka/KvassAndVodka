@@ -7,7 +7,6 @@
     <a href="https://portfolio.jmraut.dev"><img src="https://img.shields.io/badge/Portfolio-jmraut.dev-1a1b27?style=flat-square&logo=globe&logoColor=70a5fd" alt="Portfolio" /></a>
     <a href="https://github.com/KvassAndVodka"><img src="https://img.shields.io/badge/GitHub-KvassAndVodka-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/raut-javier-m/"><img src="https://img.shields.io/badge/LinkedIn-Javier_Raut-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-    <a href="mailto:javier.raut@gmail.com"><img src="https://img.shields.io/badge/Email-javier.raut%40gmail.com-1a1b27?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
 
 </div>
@@ -16,7 +15,7 @@
 
 ## Profile
 
-I design and build reliable, secure software systems.
+I build reliable full-stack systems, from self-hosted infrastructure to real-time ML pipelines.
 
 - **Software Developer** at the **House of Representatives of the Philippines**. Builds and maintains internal web platforms.
 - **Part-Time Faculty** at the **University of Science and Technology of Southern Philippines - Cagayan de Oro | Department of Computer Science**. Teaches Fundamentals of Database Systems.
@@ -30,11 +29,12 @@ I design and build reliable, secure software systems.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & DB** | `Python` · `C++` · `C#` · `Java` · `TypeScript` · `JavaScript` · `PostgreSQL` · `SQLite` · `Redis` · `Bash` |
-| **Frameworks & Web** | `Next.js` · `React` · `Node.js` · `FastAPI` · `Express` · `Prisma ORM` · `SQLAlchemy` · `Tailwind CSS` |
-| **AI, ML & Vision** | `YOLO` · `PaddleOCR` · `Intel OpenVINO` · `OpenCV` · `Whisper ASR` · `PyAnnote` · `PyTorch` · `TensorFlow` |
-| **Infra, DevOps & Security** | `Linux` · `Docker` · `Proxmox VE` · `Cloudflare Tunnels` · `NGINX` · `Tailscale` · `AdGuard Home` |
-| **Tooling & Quality** | `Pytest` · `Ruff` · `MyPy` · `ESLint` · `Prettier` · `uv` · `Git Pre-Push Guardrails` · `CI/CD Workflows` |
+| **Languages & DB** | `TypeScript` · `Python` · `JavaScript` · `C++` · `C#` · `Java` · `PostgreSQL` · `SQLite` · `Redis` · `Bash` |
+| **Frameworks & Web** | `Next.js` · `React` · `Node.js` · `FastAPI` · `Express` · `Prisma ORM` · `SQLAlchemy` · `Tailwind CSS` · `NextAuth` · `Tiptap` |
+| **Maps & Motion** | `MapLibre GL` · `deck.gl` · `D3-geo` · `GSAP` · `Lenis` |
+| **AI, ML & Vision** | `YOLO` · `PaddleOCR` · `Intel OpenVINO` · `OpenCV` · `Whisper ASR` · `PyAnnote` · `FFmpeg` · `PyTorch` · `TensorFlow` |
+| **Infra, DevOps & Security** | `Linux` · `Docker` · `Proxmox VE` · `Cloudflare Tunnels` · `NGINX` · `Tailscale` · `AdGuard Home` · `GitHub Actions` |
+| **Tooling & Quality** | `Pytest` · `Ruff` · `MyPy` · `ESLint` · `Prettier` · `uv` · `SonarCloud` · `Husky` · `Git Pre-Push Guardrails` · `MCP Servers` |
 
 ---
 
@@ -42,10 +42,11 @@ I design and build reliable, secure software systems.
 
 | Project | Description | Primary Technologies |
 | :--- | :--- | :--- |
-| **[Portfolio & Blog](https://portfolio.jmraut.dev)** | Self-hosted personal portfolio and technical blog platform. | Next.js, PostgreSQL, Prisma, Docker, Cloudflare |
+| **[Portfolio & Blog](https://portfolio.jmraut.dev)** | Self-hosted portfolio and blog with a scroll-driven 3D map story, an admin desk, and CI/CD deploys. | Next.js, PostgreSQL, Prisma, MapLibre, deck.gl, GSAP, Docker, Cloudflare |
+| **[staRT](https://github.com/KvassAndVodka/staRT)** | Local-first live transcription and multi-speaker review for audio/video URLs and live streams. | Python, FastAPI, Next.js, FFmpeg, Whisper, PyAnnote, SQLite |
+| **[RT-Transcript](https://github.com/KvassAndVodka/RT-Transcript)** | Local newsroom workspace that turns broadcasts into durable, speaker-attributed transcripts. | Python, FastAPI, React, SQLite, Whisper |
 | **Infrastructure Tracking Platform** | Internal project-tracking platform for a government office (private). | Firebase, Node.js, Linux, Docker |
-| **[RT-Transcript](https://github.com/KvassAndVodka/RT-Transcript)** | Real-time speech transcription system. | Python, FastAPI, WebSockets, Audio Processing |
-| **DyMoN** | Motion-based anomaly detection module for computer vision systems. | Python, OpenCV, Machine Learning |
+| **[DyMoN](https://github.com/Ofen-Lovers/DyMoN)** | Post-hoc kinematic anomaly detection for dynamic social networks, using node-embedding velocity and acceleration. A plug-in boost for JODIE, STRIPE, and DSEDN. | Python, PyTorch, PyTorch Geometric, NetworkX |
 | **Home Lab** | Self-hosted infrastructure for network services and portfolio hosting. | Proxmox VE, AdGuard Home, Docker, Linux |
 
 ---
