@@ -17,7 +17,7 @@
 
 I build reliable full-stack systems, from self-hosted infrastructure to real-time ML pipelines.
 
-- **Software Developer** at the **House of Representatives of the Philippines | 2nd Cong. District of MisOr**. Builds and maintains internal web platforms.
+- **Software Developer** at the **House of Representatives of the Philippines | 2nd District of MisOr**. Builds and maintains internal web platforms.
 - **Part-Time Faculty** at the **University of Science and Technology of Southern Philippines - Cagayan de Oro | Department of Computer Science**. Teaches Fundamentals of Database Systems.
 - **BS Computer Science (Magna Cum Laude)**, Pioneer batch of USTP-CDO's Department of Computer Science (2022-2026). Recipient of the Alan Turing Award and a DOST-SEI JLSS Merit Scholar.
 - **Former ML/AI Intern** at **meldCX**. Developed license plate recognition systems with YOLO, PaddleOCR, and OpenVINO.
